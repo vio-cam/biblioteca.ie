@@ -26,7 +26,7 @@ main {
 display: flex;
 flex-direction: column;
 align-items: justify;
-margin: 5px 100px;
+margin: 5px 50px;
 padding: 20px;
 }
 
@@ -50,13 +50,13 @@ box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 
 .audio{
     width: 100%; 
-    max-width: 600px;
+    max-width: 1600px;
     height: 40px
 }
 
 .video{
     width: 100%;
-    max-width: 800px; 
+    max-width: 1000px; 
     height: auto; 
 }
 
