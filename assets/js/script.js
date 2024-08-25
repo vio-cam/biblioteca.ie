@@ -35,24 +35,24 @@ const materiales = {
                 }
             },
             'dpcc': {
-                'autestima_y_habilidades_sociales': {
+                'habilidades_sociales': {
                     'auditivo': 'assets/audio/1/Qué son las Habilidades Sociales y cómo desarrollarlas(MP3_160K).mp3',
                     'visual': 'assets/video/1/Qué son las Habilidades Sociales y cómo desarrollarlas(360P).mp4',
-                    'verbal': 'assets/pdf/'
+                    'verbal': 'assets/pdf/1/habilidades sociales.pdf'
                 }
             },
             'ept': {
                 'Metodo_desing-thinking': {
                     'auditivo': 'assets/audio/1/Qué es el Design Thinking y para qué sirve _ Fases del Design Thinking _ Transforma tu Negocio(MP3_160K).mp3',
                     'visual': 'assets/video/1/Qué es el Design Thinking y para qué sirve _ Fases del Design Thinking _ Transforma tu Negocio(360P).mp4',
-                    'verbal': 'assets/pdf/'
+                    'verbal': 'assets/pdf/1/Design Thinking'
                 }
             },
             'ing': {
                 'presentaciones_y_saludos': {
                     'auditivo': 'assets/audio/1/PRESENTACIONES Y SALUDOS. CONOCIENDO A ALGUIEN - INGLÉS PARA NIÑOS CON MR. PEA [ENGLISH FOR KIDS](MP3_160K).mp3',
                     'visual': 'assets/video/1/PRESENTACIONES Y SALUDOS. CONOCIENDO A ALGUIEN - INGLÉS PARA NIÑOS CON MR. PEA [ENGLISH FOR KIDS](360P).mp4',
-                    'verbal': 'assets/pdf/1/'
+                    'verbal': 'assets/pdf/1/saludos en ingles.pdf'
                 }
             },
             'mate': {
@@ -75,8 +75,7 @@ const materiales = {
                 'Edad_media': {
                     'auditivo': 'assets/audio/2/Edad Media en 10 minutos(MP3_160K).mp3',
                     'visual': 'assets/video/2/Edad Media en 10 minutos(MP3_160K).mp4',
-                    'verbal': 'assets/pdf/',
-                    'multimodal': 'assets/pdf/'
+                    'verbal': 'assets/pdf/2/edad media.pdf',
                 }
             },
             'cyt': {
@@ -108,7 +107,7 @@ const materiales = {
                     'auditivo': 'assets/audio/2/Qué es el Design Thinking y para qué sirve _ Fases del Design Thinking _ Transforma tu Negocio(MP3_160K).mp3',
                     'visual': 'assets/video/2/Qué es el Design Thinking y para qué sirve _ Fases del Design Thinking _ Transforma tu Negocio(360P).mp4',
                     'verbal': 'assets/pdf/',
-                    'multimodal': 'assets/pdf/'
+                    'multimodal': 'assets/pdf/2/Design Thinking.pdf'
                 }
             },
             'ing': {
