@@ -1,0 +1,67 @@
+
+body {
+font-family: Arial, sans-serif;
+background-color: #5b6f74;
+background-blend-mode: soft-light;
+background-image: url(../img/cole.jpg);
+background-position: initial;
+color: #333333;
+}
+
+p{
+    font-family: Concert One;
+    font-size: 50px;
+    color: #ffffff;
+    text-align: center;
+}
+
+header {
+background-color: #3498db;
+color: #ffffff;
+padding: 20px;
+text-align: center;
+}
+
+main {
+display: flex;
+flex-direction: column;
+align-items: justify;
+margin: 5px 200px;
+padding: 20px;
+}
+
+select {
+padding: 10px;
+border: none;
+border-radius: 5px;
+background-color: #f1c40f;
+color: #333333;
+}
+
+
+#material {
+flex-wrap: wrap;
+background-color: #ffffff;
+padding: 20px;
+border: 1px solid #dddddd;
+border-radius: 5px;
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.audio{
+    width: 100%; 
+    max-width: 600px;
+    height: 40px
+}
+
+.video{
+    width: 100%;
+    max-width: 800px; 
+    height: auto; 
+}
+
+label{
+    font-family: Bree Serif;
+    font-size: large;
+    color: #ffffff;
+}
