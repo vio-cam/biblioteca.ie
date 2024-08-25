@@ -12,70 +12,61 @@ const materiales = {
                 'introduccion_a_la_economia': {
                     'auditivo': 'assets/audio/1/intr_Eco.mpeg',
                     'visual': 'assets/video/1/intr_Eco1.mp4',
-                    'verbal': 'assets/pdf/',
-                    'multimodal': 'assets/pdf/'
+                    'verbal': 'assets/pdf/1/economia.pdf'
                 },
                 'historia_antigua': {
                     'auditivo': 'assets/audio/1/historia_antigua.mepg',
                     'visual': 'assets/video/1/La Edad Antigua _ Vídeos Educativos para Niños(360P).mp4',
-                    'verbal': 'assets/pdf/',
-                    'multimodal': 'assets/pdf/'
+                    'verbal': 'assets/pdf/1/edad antigua.pdf'
                 }
             },
             'cyt': {
                 'introduccion_a_la_biologia': {
                     'auditivo': 'assets/audio/1/¿QUE ES LA BIOLOGÍA_ en minutos(MP3_160K).mp3',
                     'visual': 'assets/video/1/¿QUE ES LA BIOLOGÍA_ en minutos(360P).mp4',
-                    'verbal': 'assets/pdf/que es la biologia.pdf',
-                    'multimodal': 'assets/pdf/'
+                    'verbal': 'assets/pdf/que es la biologia.pdf'
                 },
             },
             'comu': {
                 'tipos_de_texto': {
                     'auditivo': 'assets/audio/1/El texto _ Tipos de textos _ Narrativo_ Descriptivo_ Argumentativo_ Expositivo_ etc(MP3_160K).mp3',
                     'visual': 'assets/video/1/El texto _ Tipos de textos _ Narrativo_ Descriptivo_ Argumentativo_ Expositivo_ etc(360P).mp4',
-                    'verbal': 'assets/pdf/',
-                    'multimodal': 'assets/pdf/'
+                    'verbal': 'assets/pdf/1/el texto.pdf'
                 }
             },
             'dpcc': {
                 'autestima_y_habilidades_sociales': {
                     'auditivo': 'assets/audio/1/Qué son las Habilidades Sociales y cómo desarrollarlas(MP3_160K).mp3',
                     'visual': 'assets/video/1/Qué son las Habilidades Sociales y cómo desarrollarlas(360P).mp4',
-                    'verbal': 'assets/pdf/',
-                    'multimodal': 'assets/pdf/'
+                    'verbal': 'assets/pdf/'
                 }
             },
             'ept': {
                 'Metodo_desing-thinking': {
                     'auditivo': 'assets/audio/1/Qué es el Design Thinking y para qué sirve _ Fases del Design Thinking _ Transforma tu Negocio(MP3_160K).mp3',
                     'visual': 'assets/video/1/Qué es el Design Thinking y para qué sirve _ Fases del Design Thinking _ Transforma tu Negocio(360P).mp4',
-                    'verbal': 'assets/pdf/',
-                    'multimodal': 'assets/pdf/'
+                    'verbal': 'assets/pdf/'
                 }
             },
             'ing': {
                 'presentaciones_y_saludos': {
                     'auditivo': 'assets/audio/1/PRESENTACIONES Y SALUDOS. CONOCIENDO A ALGUIEN - INGLÉS PARA NIÑOS CON MR. PEA [ENGLISH FOR KIDS](MP3_160K).mp3',
                     'visual': 'assets/video/1/PRESENTACIONES Y SALUDOS. CONOCIENDO A ALGUIEN - INGLÉS PARA NIÑOS CON MR. PEA [ENGLISH FOR KIDS](360P).mp4',
-                    'verbal': 'assets/pdf/',
-                    'multimodal': 'assets/pdf/'
+                    'verbal': 'assets/pdf/1/'
                 }
             },
             'mate': {
                 'Numeros_enteros': {
                     'auditivo': 'assets/audio/1/NÚMEROS NATURALES Super facil - Para principiantes(MP3_160K).mp3',
                     'visual': 'assets/video/1/NÚMEROS NATURALES Super facil - Para principiantes(360P).mp4',
-                    'verbal': 'assets/pdf/',
-                    'multimodal': 'assets/pdf/'
+                    'verbal': 'assets/pdf/1/NUMEROS ENTEROS.pdf',
                 }
             },
             'rel': {
                 'Historia_de_las_religiones': {
                     'auditivo': 'assets/audio/1/INTRODUCCIÓN A LA HISTORIA DE LAS RELIGIONES _1(MP3_160K).mp3',
                     'visual': 'assets/video/1/INTRODUCCIÓN A LA HISTORIA DE LAS RELIGIONES _1(360P).mp4',
-                    'verbal': 'assets/pdf/',
-                    'multimodal': 'assets/pdf/'
+                    'verbal': 'assets/pdf/1/historia de las religiones.pdf'
                 }
             }
         },
