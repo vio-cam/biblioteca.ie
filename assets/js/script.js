@@ -82,56 +82,49 @@ const materiales = {
                 'Taconomia': {
                     'auditivo': 'assets/audio/2/🌿5 Reinos y 3 Dominios de la Vida🐠 _ Clasificación de los seres vivos_ [Fácil y Rápido] _ BIOLOGÍA _(MP3_160K).mp3',
                     'visual': 'assets/video/2/🌿5 Reinos y 3 Dominios de la Vida🐠 _ Clasificación de los seres vivos_ [Fácil y Rápido] _ BIOLOGÍA _(360P).mp4',
-                    'verbal': 'assets/pdf/que es la biologia.pdf',
-                    'multimodal': 'assets/pdf/'
+                    'verbal': 'assets/pdf/que es la biologia.pdf'
                 },
             },
             'comu': {
                 'generos_literarios': {
                     'auditivo': 'assets/audio/2/📚 Los GÉNEROS LITERARIOS y sus CARACTERÍSTICAS para NIÑOS de PRIMARIA(MP3_160K).mp3',
                     'visual': 'assets/video/2/📚 Los GÉNEROS LITERARIOS y sus CARACTERÍSTICAS para NIÑOS de PRIMARIA(360P).mp4',
-                    'verbal': 'assets/pdf/',
-                    'multimodal': 'assets/pdf/'
+                    'verbal': 'assets/pdf/2/GÉNEROS LITERARIOS.pdf'
                 }
             },
             'dpcc': {
                 'resolucion_De_conflictos': {
                     'auditivo': 'assets/audio/2/Resolución de Conflictos(MP3_160K).mp3',
                     'visual': 'assets/video/2/Resolución de Conflictos(360P).mp4',
-                    'verbal': 'assets/pdf/',
-                    'multimodal': 'assets/pdf/'
+                    'verbal': 'assets/pdf/'
                 }
             },
             'ept': {
                 'Metodo_desing-thinking': {
                     'auditivo': 'assets/audio/2/Qué es el Design Thinking y para qué sirve _ Fases del Design Thinking _ Transforma tu Negocio(MP3_160K).mp3',
                     'visual': 'assets/video/2/Qué es el Design Thinking y para qué sirve _ Fases del Design Thinking _ Transforma tu Negocio(360P).mp4',
-                    'verbal': 'assets/pdf/',
-                    'multimodal': 'assets/pdf/2/Design Thinking.pdf'
+                    'verbal': 'assets/pdf/2/Design Thinking.pdf'
                 }
             },
             'ing': {
                 'presents continous': {
                     'auditivo': 'assets/audio/2/PRESENT CONTINUOUS (EXPLICACIÓN   PRÁCTICA) - INGLÉS PARA NIÑOS CON MR.PEA - ENGLISH FOR KIDS(MP3_160K).mp3',
                     'visual': 'assets/video/2/PRESENT CONTINUOUS (EXPLICACIÓN   PRÁCTICA) - INGLÉS PARA NIÑOS CON MR.PEA - ENGLISH FOR KIDS(360P).mp4',
-                    'verbal': 'assets/pdf/',
-                    'multimodal': 'assets/pdf/'
+                    'verbal': 'assets/pdf/2/PRESENT CONTINOUS.pdf'
                 }
             },
             'mate': {
                 'Ecuaciones': {
                     'auditivo': 'assets/audio/2/¿Cómo se resuelven las Ecuaciones_ _ Videos Educativos Aula365(MP3_160K).mp3',
                     'visual': 'assets/video/2/¿Cómo se resuelven las Ecuaciones_ _ Videos Educativos Aula365(360P).mp4',
-                    'verbal': 'assets/pdf/',
-                    'multimodal': 'assets/pdf/'
+                    'verbal': 'assets/pdf/2/ecuaciones.pdf'
                 }
             },
             'rel': {
-                'la_ortodoxa_y_la_catolica': {
+                'iglesia_ortodoxa_y_la_catolica': {
                     'auditivo': 'assets/audio/2/El Gran Cisma_ La Ruptura entre la IGLESIA ORTODOXA y la IGLESIA CATÓLICA ✝️ (Año 1054)(MP3_160K).mp3',
                     'visual': 'assets/video/2/El Gran Cisma_ La Ruptura entre la IGLESIA ORTODOXA y la IGLESIA CATÓLICA ✝️ (Año 1054)(360P).mp4',
-                    'verbal': 'assets/pdf/',
-                    'multimodal': 'assets/pdf/'
+                    'verbal': 'assets/pdf/2/RUPTURA DE LA IGLSIA ORTODOXA Y CATOLICA.pdf'
                 }
             }
 
@@ -141,64 +134,56 @@ const materiales = {
                 'renacimiento': {
                     'auditivo': 'assets/audio/3/El Renacimiento en 10 minutos_(MP3_160K).mp3',
                     'visual': 'assets/video/2/.mp4',
-                    'verbal': 'assets/pdf/',
-                    'multimodal': 'assets/pdf/'
+                    'verbal': 'assets/pdf/'
                 }
             },
             'cyt': {
                 'introduccion_a_la_quimica': {
                     'auditivo': 'assets/audio/3/Introducción a la química básica(MP3_160K).mp3',
                     'visual': 'assets/video/3/.mp4',
-                    'verbal': 'assets/pdf/que es la biologia.pdf',
-                    'multimodal': 'assets/pdf/'
+                    'verbal': 'assets/pdf/que es la biologia.pdf'
                 },
             },
             'comu': {
                 'analisis literarios': {
                     'auditivo': 'assets/audio/3/Análisis Literario(MP3_160K).mp3',
                     'visual': 'assets/video/3/.mp4',
-                    'verbal': 'assets/pdf/',
-                    'multimodal': 'assets/pdf/'
+                    'verbal': 'assets/pdf/'
                 }
             },
             'dpcc': {
                 'estereotipos': {
                     'auditivo': 'assets/audio/3/¿Qué son los Estereotipos_(MP3_160K).mp3',
                     'visual': 'assets/video/3/¿Qué son los Estereotipos_(360P).mp4',
-                    'verbal': 'assets/pdf/',
-                    'multimodal': 'assets/pdf/'
+                    'verbal': 'assets/pdf/'
                 }
             },
             'ept': {
                 'formulamos_desafio_y_empatizamos': {
                     'auditivo': 'assets/audio/3/SEMANA 1 EPT 3RO Y 4TO _ EXPERIENCIA DE APRENDIZAJE 1 _ INTRODUCCIÓN(MP3_160K).mp3',
                     'visual': 'assets/video/3/SEMANA 1 EPT 3RO Y 4TO _ EXPERIENCIA DE APRENDIZAJE 1 _ INTRODUCCIÓN(360P).mp4',
-                    'verbal': 'assets/pdf/',
-                    'multimodal': 'assets/pdf/'
+                    'verbal': 'assets/pdf/'
                 }
             },
             'ing': {
                 'future perfect': {
                     'auditivo': 'assets/audio/3/FUTURE PERFECT EN INGLÉS_ EXPLICACIÓN SIMPLE Y EJERCICIOS - INGLÉS PARA NIÑOS CON MR.PEA(MP3_160K).mp3',
                     'visual': 'assets/video/3/FUTURE PERFECT EN INGLÉS_ EXPLICACIÓN SIMPLE Y EJERCICIOS - INGLÉS PARA NIÑOS CON MR.PEA(360P).mp4',
-                    'verbal': 'assets/pdf/',
-                    'multimodal': 'assets/pdf/'
+                    'verbal': 'assets/pdf/'
                 }
             },
             'mate': {
                 'sistema de ecuaciones': {
                     'auditivo': 'assets/audio/3/RESOLVER SISTEMAS DE ECUACIONES MÉTODO DE SUSTITUCIÓN Super fácil - Para principiantes(MP3_160K).mp3',
                     'visual': 'assets/video/3/RESOLVER SISTEMAS DE ECUACIONES MÉTODO DE SUSTITUCIÓN Super fácil - Para principiantes(360P).mp4',
-                    'verbal': 'assets/pdf/',
-                    'multimodal': 'assets/pdf/'
+                    'verbal': 'assets/pdf/'
                 }
             },
             'rel': {
                 'Historia_de_la_iglesia': {
                     'auditivo': 'assets/audio/3/HISTORIA DE LA IGLESIA EN (CASI) 10 MINUTOS(MP3_160K).mp3',
                     'visual': 'assets/video/3/HISTORIA DE LA IGLESIA EN (CASI) 10 MINUTOS(360P).mp4',
-                    'verbal': 'assets/pdf/',
-                    'multimodal': 'assets/pdf/'
+                    'verbal': 'assets/pdf/'
                 }
             }
         },
@@ -207,64 +192,56 @@ const materiales = {
                 'edad_contemporanea': {
                     'auditivo': 'assets/audio/4/✅ La EDAD CONTEMPORÁNEA en 15 minutos _ Resumen fácil y divertido(MP3_160K).mp3',
                     'visual': 'assets/video/4/✅ La EDAD CONTEMPORÁNEA en 15 minutos _ Resumen fácil y divertido(360P).mp4',
-                    'verbal': 'assets/pdf/',
-                    'multimodal': 'assets/pdf/'
+                    'verbal': 'assets/pdf/'
                 }
             },
             'cyt': {
                 'introduccion_a_la_biologia': {
                     'auditivo': 'assets/audio/4/¿QUE ES LA BIOLOGÍA_ en minutos(MP3_160K).mp3',
                     'visual': 'assets/video/4/¿QUE ES LA BIOLOGÍA_ en minutos(360P).mp4',
-                    'verbal': 'assets/pdf/que es la biologia.pdf',
-                    'multimodal': 'assets/pdf/'
+                    'verbal': 'assets/pdf/que es la biologia.pdf'
                 },
             },
             'comu': {
                 'producciono_de_texto': {
                     'auditivo': 'assets/audio/4/Etapas de producción de cualquier tipo de texto (Educación)(MP3_160K).mp3',
                     'visual': 'assets/video/4/Etapas de producción de cualquier tipo de texto (Educación)(360P).mp4',
-                    'verbal': 'assets/pdf/',
-                    'multimodal': 'assets/pdf/'
+                    'verbal': 'assets/pdf/'
                 }
             },
             'dpcc': {
                 'poderes_del_estado': {
                     'auditivo': 'assets/audio/4/Los 3 poderes del Estado ¿Qué es el poder Ejecutivo_ Legislativo y Judicial_(MP3_160K).mp3',
                     'visual': 'assets/video/4/Los 3 poderes del Estado ¿Qué es el poder Ejecutivo_ Legislativo y Judicial_(360P).mp4',
-                    'verbal': 'assets/pdf/',
-                    'multimodal': 'assets/pdf/'
+                    'verbal': 'assets/pdf/'
                 }
             },
             'ept': {
                 'metodo_da_vinci': {
                     'auditivo': 'assets/audio/4/TÉCNICA DA VINCI(MP3_160K).mp3',
                     'visual': 'assets/video/4/TÉCNICA DA VINCI(360P).mp4',
-                    'verbal': 'assets/pdf/',
-                    'multimodal': 'assets/pdf/'
+                    'verbal': 'assets/pdf/'
                 }
             },
             'ing': {
                 'auxiliares': {
                     'auditivo': 'assets/audio/4/Así se usan los auxiliares DO y DOES en inglés - Presente Simple _ Clases inglés(MP3_160K).mp3',
                     'visual': 'assets/video/4/Así se usan los auxiliares DO y DOES en inglés - Presente Simple _ Clases inglés(360P).mp4',
-                    'verbal': 'assets/pdf/',
-                    'multimodal': 'assets/pdf/'
+                    'verbal': 'assets/pdf/'
                 }
             },
             'mate': {
                 'logaritmos': {
                     'auditivo': 'assets/audio/4/LOGARITMOS Super fácil - Para principiantes(MP3_160K).mp3',
                     'visual': 'assets/video/4/LOGARITMOS Super fácil - Para principiantes(360P).mp4',
-                    'verbal': 'assets/pdf/',
-                    'multimodal': 'assets/pdf/'
+                    'verbal': 'assets/pdf/'
                 }
             },
             'rel': {
                 'Sacramentos': {
                     'auditivo': 'assets/audio/4/nº 224 ¿Qué son los sacramentos y cuántos hay_(MP3_160K).mp3',
                     'visual': 'assets/video/4/nº 224 ¿Qué son los sacramentos y cuántos hay_(360P).mp4',
-                    'verbal': 'assets/pdf/',
-                    'multimodal': 'assets/pdf/'
+                    'verbal': 'assets/pdf/'
                 }
             }
         },
@@ -273,64 +250,56 @@ const materiales = {
                 'Politica_contamporanea': {
                     'auditivo': 'assets/audio/5/LA EDAD CONTEMPORÁNEA en minutos(MP3_160K).mp3',
                     'visual': 'assets/video/5/LA EDAD CONTEMPORÁNEA en minutos(360P).mp4',
-                    'verbal': 'assets/pdf/',
-                    'multimodal': 'assets/pdf/'
+                    'verbal': 'assets/pdf/'
                 }
             },
             'cyt': {
                 'herramientas_del_laboratorio': {
                     'auditivo': 'assets/audio/5/NOMBRE de los INSTRUMENTOS de LABORATORIO ⚗ _ Lista de aparatos de laboratorio en ESPAÑOL ✅(MP3_160K).mp3',
                     'visual': 'assets/video/5/NOMBRE de los INSTRUMENTOS de LABORATORIO ⚗ _ Lista de aparatos de laboratorio en ESPAÑOL ✅(360P).mp4',
-                    'verbal': 'assets/pdf/que es la biologia.pdf',
-                    'multimodal': 'assets/pdf/'
+                    'verbal': 'assets/pdf/que es la biologia.pdf'
                 },
             },
             'comu': {
                 'como_hacer_un_articulo_De_opinion': {
                     'auditivo': 'assets/audio/5/Cómo redactar un artículo de opinión _ Comprensión y Producción de Textos(MP3_160K).mp3',
                     'visual': 'assets/video/5/Cómo redactar un artículo de opinión _ Comprensión y Producción de Textos(360P).mp4',
-                    'verbal': 'assets/pdf/',
-                    'multimodal': 'assets/pdf/'
+                    'verbal': 'assets/pdf/'
                 }
             },
             'dpcc': {
                 'derechos y deberes': {
                     'auditivo': 'assets/audio/5/Derechos y Deberes(MP3_160K).mp3',
                     'visual': 'assets/video/5/Cómo redactar un artículo de opinión _ Comprensión y Producción de Textos(360P).mp4',
-                    'verbal': 'assets/pdf/',
-                    'multimodal': 'assets/pdf/'
+                    'verbal': 'assets/pdf/'
                 }
             },
             'ept': {
                 'storyboard': {
                     'auditivo': 'assets/audio/5/STORYBOARD - ¿Qué es y cómo se hace_(MP3_160K).mp3',
                     'visual': 'assets/video/5/STORYBOARD - ¿Qué es y cómo se hace_(360P).mp4',
-                    'verbal': 'assets/pdf/',
-                    'multimodal': 'assets/pdf/'
+                    'verbal': 'assets/pdf/'
                 }
             },
             'ing': {
                 'weather': {
                     'auditivo': 'assets/audio/5/EL TIEMPO METEOROLÓGICO EN INGLÉS (THE WEATHER)  - APRENDE INGLÉS CON MR PEA (ENGLISH FOR KIDS)(MP3_160K).mp3',
                     'visual': 'assets/video/5/EL TIEMPO METEOROLÓGICO EN INGLÉS (THE WEATHER)  - APRENDE INGLÉS CON MR PEA (ENGLISH FOR KIDS)(360P).mp4',
-                    'verbal': 'assets/pdf/',
-                    'multimodal': 'assets/pdf/'
+                    'verbal': 'assets/pdf/'
                 }
             },
             'mate': {
                 'interes simple': {
                     'auditivo': 'assets/audio/5/INTERÉS SIMPLE Super facil - Para principiantes(MP3_160K).mp3',
                     'visual': 'assets/video/5/INTERÉS SIMPLE Super facil - Para principiantes(360P).mp4',
-                    'verbal': 'assets/pdf/',
-                    'multimodal': 'assets/pdf/'
+                    'verbal': 'assets/pdf/'
                 }
             },
             'rel': {
                 'magisterio_de_la_iglesia': {
                     'auditivo': 'assets/audio/5/MAGISTERIO DE LA IGLESIA(MP3_160K).mp3',
                     'visual': 'assets/video/5/MAGISTERIO DE LA IGLESIA(360P).mp4',
-                    'verbal': 'assets/pdf/',
-                    'multimodal': 'assets/pdf/'
+                    'verbal': 'assets/pdf/'
                 }
             }
         }
