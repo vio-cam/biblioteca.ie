@@ -82,7 +82,7 @@ const materiales = {
                 'Taconomia': {
                     'auditivo': 'assets/audio/2/🌿5 Reinos y 3 Dominios de la Vida🐠 _ Clasificación de los seres vivos_ [Fácil y Rápido] _ BIOLOGÍA _(MP3_160K).mp3',
                     'visual': 'assets/video/2/🌿5 Reinos y 3 Dominios de la Vida🐠 _ Clasificación de los seres vivos_ [Fácil y Rápido] _ BIOLOGÍA _(360P).mp4',
-                    'verbal': 'assets/pdf/que es la biologia.pdf'
+                    'verbal': 'assets/pdf/2/cyt.pdf'
                 },
             },
             'comu': {
@@ -96,7 +96,7 @@ const materiales = {
                 'resolucion_De_conflictos': {
                     'auditivo': 'assets/audio/2/Resolución de Conflictos(MP3_160K).mp3',
                     'visual': 'assets/video/2/Resolución de Conflictos(360P).mp4',
-                    'verbal': 'assets/pdf/'
+                    'verbal': 'assets/pdf/2/RESOLUCIÓN DE PROBLEMAS.pdf'
                 }
             },
             'ept': {
@@ -133,57 +133,57 @@ const materiales = {
             'ccss': {
                 'renacimiento': {
                     'auditivo': 'assets/audio/3/El Renacimiento en 10 minutos_(MP3_160K).mp3',
-                    'visual': 'assets/video/2/.mp4',
-                    'verbal': 'assets/pdf/'
+                    'visual': 'assets/video/3/El Renacimiento en 10 minutos_(360P).mp4',
+                    'verbal': 'assets/pdf/3/ccss.pdf'
                 }
             },
             'cyt': {
                 'introduccion_a_la_quimica': {
                     'auditivo': 'assets/audio/3/Introducción a la química básica(MP3_160K).mp3',
-                    'visual': 'assets/video/3/.mp4',
-                    'verbal': 'assets/pdf/que es la biologia.pdf'
+                    'visual': 'assets/video/3/Introducción a la química básica(360P).mp4',
+                    'verbal': 'assets/pdf/3/que es la biologia.pdf'
                 },
             },
             'comu': {
                 'analisis literarios': {
                     'auditivo': 'assets/audio/3/Análisis Literario(MP3_160K).mp3',
-                    'visual': 'assets/video/3/.mp4',
-                    'verbal': 'assets/pdf/'
+                    'visual': 'assets/video/3/Análisis Literario(360P).mp4',
+                    'verbal': 'assets/pdf/3/comu.pdf'
                 }
             },
             'dpcc': {
                 'estereotipos': {
                     'auditivo': 'assets/audio/3/¿Qué son los Estereotipos_(MP3_160K).mp3',
                     'visual': 'assets/video/3/¿Qué son los Estereotipos_(360P).mp4',
-                    'verbal': 'assets/pdf/'
+                    'verbal': 'assets/pdf/3/dpcc.pdf'
                 }
             },
             'ept': {
                 'formulamos_desafio_y_empatizamos': {
                     'auditivo': 'assets/audio/3/SEMANA 1 EPT 3RO Y 4TO _ EXPERIENCIA DE APRENDIZAJE 1 _ INTRODUCCIÓN(MP3_160K).mp3',
                     'visual': 'assets/video/3/SEMANA 1 EPT 3RO Y 4TO _ EXPERIENCIA DE APRENDIZAJE 1 _ INTRODUCCIÓN(360P).mp4',
-                    'verbal': 'assets/pdf/'
+                    'verbal': 'assets/pdf/3/ept.pdf'
                 }
             },
             'ing': {
                 'future perfect': {
                     'auditivo': 'assets/audio/3/FUTURE PERFECT EN INGLÉS_ EXPLICACIÓN SIMPLE Y EJERCICIOS - INGLÉS PARA NIÑOS CON MR.PEA(MP3_160K).mp3',
                     'visual': 'assets/video/3/FUTURE PERFECT EN INGLÉS_ EXPLICACIÓN SIMPLE Y EJERCICIOS - INGLÉS PARA NIÑOS CON MR.PEA(360P).mp4',
-                    'verbal': 'assets/pdf/'
+                    'verbal': 'assets/pdf/3/ingles.pdf'
                 }
             },
             'mate': {
-                'sistema de ecuaciones': {
+                'sistema de ecuaciones_metodo_de_sustitucion': {
                     'auditivo': 'assets/audio/3/RESOLVER SISTEMAS DE ECUACIONES MÉTODO DE SUSTITUCIÓN Super fácil - Para principiantes(MP3_160K).mp3',
                     'visual': 'assets/video/3/RESOLVER SISTEMAS DE ECUACIONES MÉTODO DE SUSTITUCIÓN Super fácil - Para principiantes(360P).mp4',
-                    'verbal': 'assets/pdf/'
+                    'verbal': 'assets/pdf/3/mate.pdf'
                 }
             },
             'rel': {
                 'Historia_de_la_iglesia': {
                     'auditivo': 'assets/audio/3/HISTORIA DE LA IGLESIA EN (CASI) 10 MINUTOS(MP3_160K).mp3',
                     'visual': 'assets/video/3/HISTORIA DE LA IGLESIA EN (CASI) 10 MINUTOS(360P).mp4',
-                    'verbal': 'assets/pdf/'
+                    'verbal': 'assets/pdf/3/rel.pdf'
                 }
             }
         },
