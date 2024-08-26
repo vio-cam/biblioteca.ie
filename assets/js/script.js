@@ -271,35 +271,35 @@ const materiales = {
                 'derechos y deberes': {
                     'auditivo': 'assets/audio/5/Derechos y Deberes(MP3_160K).mp3',
                     'visual': 'assets/video/5/Cómo redactar un artículo de opinión _ Comprensión y Producción de Textos(360P).mp4',
-                    'verbal': 'assets/pdf/'
+                    'verbal': 'assets/pdf/5/dpcc.pdf'
                 }
             },
             'ept': {
                 'storyboard': {
                     'auditivo': 'assets/audio/5/STORYBOARD - ¿Qué es y cómo se hace_(MP3_160K).mp3',
                     'visual': 'assets/video/5/STORYBOARD - ¿Qué es y cómo se hace_(360P).mp4',
-                    'verbal': 'assets/pdf/'
+                    'verbal': 'assets/pdf/5/ept.pdf'
                 }
             },
             'ing': {
                 'weather': {
                     'auditivo': 'assets/audio/5/EL TIEMPO METEOROLÓGICO EN INGLÉS (THE WEATHER)  - APRENDE INGLÉS CON MR PEA (ENGLISH FOR KIDS)(MP3_160K).mp3',
                     'visual': 'assets/video/5/EL TIEMPO METEOROLÓGICO EN INGLÉS (THE WEATHER)  - APRENDE INGLÉS CON MR PEA (ENGLISH FOR KIDS)(360P).mp4',
-                    'verbal': 'assets/pdf/'
+                    'verbal': 'assets/pdf/5/ingles.pdf'
                 }
             },
             'mate': {
                 'interes simple': {
                     'auditivo': 'assets/audio/5/INTERÉS SIMPLE Super facil - Para principiantes(MP3_160K).mp3',
                     'visual': 'assets/video/5/INTERÉS SIMPLE Super facil - Para principiantes(360P).mp4',
-                    'verbal': 'assets/pdf/'
+                    'verbal': 'assets/pdf/5/mate.pdf'
                 }
             },
             'rel': {
                 'magisterio_de_la_iglesia': {
                     'auditivo': 'assets/audio/5/MAGISTERIO DE LA IGLESIA(MP3_160K).mp3',
                     'visual': 'assets/video/5/MAGISTERIO DE LA IGLESIA(360P).mp4',
-                    'verbal': 'assets/pdf/'
+                    'verbal': 'assets/pdf/5/rel.pdf'
                 }
             }
         }
