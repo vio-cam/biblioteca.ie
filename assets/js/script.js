@@ -24,7 +24,7 @@ const materiales = {
                 'introduccion_a_la_biologia': {
                     'auditivo': 'assets/audio/1/¿QUE ES LA BIOLOGÍA_ en minutos(MP3_160K).mp3',
                     'visual': 'assets/video/1/¿QUE ES LA BIOLOGÍA_ en minutos(360P).mp4',
-                    'verbal': 'assets/pdf/que es la biologia.pdf'
+                    'verbal': 'assets/pdf/1/que es la biologia.pdf'
                 },
             },
             'comu': {
@@ -192,56 +192,56 @@ const materiales = {
                 'edad_contemporanea': {
                     'auditivo': 'assets/audio/4/✅ La EDAD CONTEMPORÁNEA en 15 minutos _ Resumen fácil y divertido(MP3_160K).mp3',
                     'visual': 'assets/video/4/✅ La EDAD CONTEMPORÁNEA en 15 minutos _ Resumen fácil y divertido(360P).mp4',
-                    'verbal': 'assets/pdf/'
+                    'verbal': 'assets/pdf/4/ccss.pdf'
                 }
             },
             'cyt': {
                 'introduccion_a_la_biologia': {
                     'auditivo': 'assets/audio/4/¿QUE ES LA BIOLOGÍA_ en minutos(MP3_160K).mp3',
                     'visual': 'assets/video/4/¿QUE ES LA BIOLOGÍA_ en minutos(360P).mp4',
-                    'verbal': 'assets/pdf/que es la biologia.pdf'
+                    'verbal': 'assets/pdf/4/que es la biologia.pdf'
                 },
             },
             'comu': {
                 'producciono_de_texto': {
                     'auditivo': 'assets/audio/4/Etapas de producción de cualquier tipo de texto (Educación)(MP3_160K).mp3',
                     'visual': 'assets/video/4/Etapas de producción de cualquier tipo de texto (Educación)(360P).mp4',
-                    'verbal': 'assets/pdf/'
+                    'verbal': 'assets/pdf/4/comu.pdf'
                 }
             },
             'dpcc': {
                 'poderes_del_estado': {
                     'auditivo': 'assets/audio/4/Los 3 poderes del Estado ¿Qué es el poder Ejecutivo_ Legislativo y Judicial_(MP3_160K).mp3',
                     'visual': 'assets/video/4/Los 3 poderes del Estado ¿Qué es el poder Ejecutivo_ Legislativo y Judicial_(360P).mp4',
-                    'verbal': 'assets/pdf/'
+                    'verbal': 'assets/pdf/4/dpcc.pdf'
                 }
             },
             'ept': {
                 'metodo_da_vinci': {
                     'auditivo': 'assets/audio/4/TÉCNICA DA VINCI(MP3_160K).mp3',
                     'visual': 'assets/video/4/TÉCNICA DA VINCI(360P).mp4',
-                    'verbal': 'assets/pdf/'
+                    'verbal': 'assets/pdf/4/ept.pdf'
                 }
             },
             'ing': {
                 'auxiliares': {
                     'auditivo': 'assets/audio/4/Así se usan los auxiliares DO y DOES en inglés - Presente Simple _ Clases inglés(MP3_160K).mp3',
                     'visual': 'assets/video/4/Así se usan los auxiliares DO y DOES en inglés - Presente Simple _ Clases inglés(360P).mp4',
-                    'verbal': 'assets/pdf/'
+                    'verbal': 'assets/pdf/4/ingles.pdf'
                 }
             },
             'mate': {
                 'logaritmos': {
                     'auditivo': 'assets/audio/4/LOGARITMOS Super fácil - Para principiantes(MP3_160K).mp3',
                     'visual': 'assets/video/4/LOGARITMOS Super fácil - Para principiantes(360P).mp4',
-                    'verbal': 'assets/pdf/'
+                    'verbal': 'assets/pdf/4/mate.pdf'
                 }
             },
             'rel': {
                 'Sacramentos': {
                     'auditivo': 'assets/audio/4/nº 224 ¿Qué son los sacramentos y cuántos hay_(MP3_160K).mp3',
                     'visual': 'assets/video/4/nº 224 ¿Qué son los sacramentos y cuántos hay_(360P).mp4',
-                    'verbal': 'assets/pdf/'
+                    'verbal': 'assets/pdf/4/rel.pdf'
                 }
             }
         },
@@ -250,21 +250,21 @@ const materiales = {
                 'Politica_contamporanea': {
                     'auditivo': 'assets/audio/5/LA EDAD CONTEMPORÁNEA en minutos(MP3_160K).mp3',
                     'visual': 'assets/video/5/LA EDAD CONTEMPORÁNEA en minutos(360P).mp4',
-                    'verbal': 'assets/pdf/'
+                    'verbal': 'assets/pdf/5/ccss.pdf'
                 }
             },
             'cyt': {
                 'herramientas_del_laboratorio': {
                     'auditivo': 'assets/audio/5/NOMBRE de los INSTRUMENTOS de LABORATORIO ⚗ _ Lista de aparatos de laboratorio en ESPAÑOL ✅(MP3_160K).mp3',
                     'visual': 'assets/video/5/NOMBRE de los INSTRUMENTOS de LABORATORIO ⚗ _ Lista de aparatos de laboratorio en ESPAÑOL ✅(360P).mp4',
-                    'verbal': 'assets/pdf/que es la biologia.pdf'
+                    'verbal': 'assets/pdf/5/cyt.pdf'
                 },
             },
             'comu': {
                 'como_hacer_un_articulo_De_opinion': {
                     'auditivo': 'assets/audio/5/Cómo redactar un artículo de opinión _ Comprensión y Producción de Textos(MP3_160K).mp3',
                     'visual': 'assets/video/5/Cómo redactar un artículo de opinión _ Comprensión y Producción de Textos(360P).mp4',
-                    'verbal': 'assets/pdf/'
+                    'verbal': 'assets/pdf/5/comu.pdf'
                 }
             },
             'dpcc': {
