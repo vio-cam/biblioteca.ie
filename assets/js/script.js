@@ -15,7 +15,7 @@ const materiales = {
                     'verbal': 'assets/pdf/1/economia.pdf'
                 },
                 'historia_antigua': {
-                    'auditivo': 'assets/audio/1/historia_antigua.mepg',
+                    'auditivo': 'assets/audio/1/La Edad Antigua _ Vídeos Educativos para Niños(MP3_160K).mp3',
                     'visual': 'assets/video/1/La Edad Antigua _ Vídeos Educativos para Niños(360P).mp4',
                     'verbal': 'assets/pdf/1/edad antigua.pdf'
                 }
